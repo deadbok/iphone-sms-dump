@@ -6,6 +6,6 @@ I have no regular access to an iPhone so I only tested this once using an iPhone
 
 ## Usage ##
 Options:
-	  -h, --help            show this help message and exit
-	  -d DB_FILE, --db=DB_FILE
-	                        SMS DB File [default: 3d0d7e5fb2ce288813306e4d4636395e047a3d28.mddata]
+
+ * **-h, --help**: Show this help message and exit
+ * **-d DB_FILE, --db=DB_FILE**: SMS DB File (*default: 3d0d7e5fb2ce288813306e4d4636395e047a3d28.mddata*)
